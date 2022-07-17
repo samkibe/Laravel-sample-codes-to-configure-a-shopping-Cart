@@ -1,3 +1,3 @@
 # Laravel-sample-codes-to-configure-a-shopping-Cart
 
-This codes will help you organize your own Laravel register - login pages then cart pages.
+These codes will help you organize a user register page  - a login pages then various shopping cart pages.
